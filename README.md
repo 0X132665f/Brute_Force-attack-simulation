@@ -5,7 +5,5 @@ just cute Brute_Force attack
 chrome://settings/help
 
 ## Install selenium
-'''
 >> C:\Python39\Scripts\pip.exe install selenium
-'''
-
+>> pip install selenium
