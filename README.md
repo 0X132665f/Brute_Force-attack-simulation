@@ -6,7 +6,6 @@ chrome://settings/help
 
 ## Install selenium
 '''
->> pip install selenium
 >> C:\Python39\Scripts\pip.exe install selenium
 '''
 
